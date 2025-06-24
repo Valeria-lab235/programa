@@ -28,7 +28,7 @@ struct Estudiante {
 };
 
 vector<Estudiante> estudiantes;
-Materia materiasDisponibles[2];
+Materia materiasDisponibles[3];
 
 void inicializarMaterias() {
     materiasDisponibles[0].nombreMateria = "Matematica";
